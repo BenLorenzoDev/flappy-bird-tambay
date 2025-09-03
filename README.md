@@ -7,7 +7,7 @@ A unique version of Flappy Bird with character selection, animated sprites, and 
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 ![Version](https://img.shields.io/badge/Version-1.0-red)
 
-## ✨ Features
+## ✨ Feature
 
 ### 🎮 Dual Character System
 - **Flappy Bird**: Classic bird with animated flapping wings
