@@ -162,7 +162,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Your Name - [@BenLorenzoDev](https://www.messenger.com/t/benlorenzodev)
 
-Project Link: [https://github.com/benlorenzodev/flappy-bird-welcome-tambay](https://github.com/benlorenzodev/flappy-bird-welcome-tambay)
+Project Link: ([https://github.com/benlorenzodev/flappy-bird-welcome-tambay](https://github.com/BenLorenzoDev/flappy-bird-tambay))
 
 ---
 
