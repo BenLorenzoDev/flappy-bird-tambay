@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tetris</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background-color: #000;
+            font-family: Arial, sans-serif;
+        }
+        .game-container {
+            text-align: center;
+        }
+        canvas {
+            border: 2px solid #fff;
+            background-color: #111;
+        }
+        .info {
+            color: #fff;
+            margin-top: 20px;
+        }
+        .score {
+            font-size: 24px;
+            margin-bottom: 10px;
+        }
+        .controls {
+            font-size: 14px;
+            line-height: 1.5;
+        }
+    </style>
+</head>
+<body>
+    <div class="game-container">
+        <canvas id="tetris" width="300" height="600"></canvas>
+        <div class="info">
+            <div class="score">Score: <span id="score">0</span></div>
+            <div class="controls">
+                Controls:<br>
+                ← → Move | ↓ Soft Drop | ↑ Rotate | Space Hard Drop
+            </div>
+        </div>
+    </div>
+    <script src="tetris.js"></script>
+</body>
+</html>
